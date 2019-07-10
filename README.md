@@ -3,6 +3,7 @@
 
 
 
+
 /*
 if (x[i] == 10) printf("A");
 else if (x[i] == 11) printf("B");
